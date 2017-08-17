@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Реклама</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="reklama">Реклама</string>
+    <string name="title_activity_login">Войти</string>
+
+    <string name="login">Login</string>
+    <string name="parol">Parol</string>
+    <string name="kirish">Войти</string>
+    <string name="chiqish">Выйти</string>
+    <string name="register">зарегистрироваться</string>
+    <string name="telefon_number">номер телефона</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">имя</string>
+    <string name="my_reklamas">мои объявления</string>
+    <string name="all_reklamas">все объявления</string>
+    <string name="add_reklamas">добавить объявления</string>
+    <string name="choose_type">выбрать тип реклама</string>
+    <string name="choose_another">выбрать другой</string>
+    <string name="name_reklama">имя объявления</string>
+    <string name="description_reklama">описание объявления</string>
+    <string name="score_reklama">цена объявления</string>
+    <string name="save_reklama">сохранить</string>
+</resources>
